@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import Card from "./Card";
-import { useReducer } from "react";
+
 
 function Foreground() {
   const ref = useRef(null);
